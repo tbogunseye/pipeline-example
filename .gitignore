@@ -1,0 +1,7 @@
+build/
+coverage/
+log/
+.env
+grubdash.js
+grubdash.js.map
+node-modules/
